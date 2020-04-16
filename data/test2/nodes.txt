@@ -1,0 +1,126 @@
+1 0.563 0.453
+Vilnius
+2 0.549 0.447
+Kaunas
+3 0.509 0.433
+Palanga
+4 0.503 0.41
+Liepāja
+5 0.538 0.398
+Riga
+6 0.564 0.351
+Tartu
+7 0.53 0.307
+Helsinki
+8 0.501 0.3
+Turku
+9 0.512 0.254
+Tampere
+10 0.486 0.241
+Vaasa
+11 0.495 0.223
+Kokkola
+12 0.592 0.293
+Saint Petersburg
+13 0.541 0.329
+Tallinn
+14 0.468 0.391
+Visby
+15 0.499 0.461
+Kaliningrad
+16 0.596 0.459
+Minsk
+17 0.518 0.549
+Warsaw
+18 0.54 0.557
+Lublin
+19 0.475 0.479
+Gdańsk
+20 0.394 0.446
+Copenhagen
+21 0.363 0.415
+Aalborg
+22 0.417 0.537
+Berlin
+23 0.344 0.595
+Frankfurt
+24 0.384 0.6189
+Nuremberg
+25 0.389 0.64
+Munich
+26 0.433 0.596
+Prague
+27 0.532 0.622
+Košice
+28 0.503 0.665
+Budapest
+29 0.671 0.533
+Kyiv
+30 0.292 0.539
+Amsterdam
+31 0.283 0.582
+Brussels
+32 0.306 0.611
+Luxembourg
+33 0.248 0.632
+Paris
+34 0.222 0.55
+London
+35 0.189 0.544
+Bristol
+36 0.2 0.515
+Birmingham
+37 0.199 0.485
+Manchester
+38 0.193 0.428
+Edinburgh
+39 0.209 0.398
+Aberdeen
+40 0.141 0.484
+Dublin
+41 0.105 0.491
+Shannon
+42 0.303 0.7
+Geneva
+43 0.339 0.673
+Zürich
+44 0.351 0.73
+Milan
+45 0.404 0.718
+Venice
+46 0.404 0.808
+Rome
+47 0.439 0.705
+Ljubljana
+48 0.458 0.712
+Zagreb
+49 0.507 0.757
+Sarajevo
+50 0.529 0.722
+Belgrade
+51 0.624 0.7
+Bucharest
+52 0.586 0.775
+Sofia
+53 0.686 0.793
+İstanbul
+54 0.55 0.785
+Prishtina
+55 0.613 0.896
+Athens
+56 0.458 0.35
+Stockholm
+57 0.37 0.332
+Oslo
+58 0.677 0.362
+Moscow
+59 0.226 0.822
+Barcelona
+60 0.126 0.828
+Madrid
+61 0.022 0.852
+Lisbon
+62 0.533 0.822
+Tirana
+63 0.463 0.647
+Vienna

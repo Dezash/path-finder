@@ -1,0 +1,14 @@
+1 0.1 0.1
+Stotis A
+2 0.2 0.1
+Stotis B
+3 0.1 0.3
+Stotis C
+4 0.2 0.4
+Stotis D
+5 0 0
+Stotis E
+6 0.3 0.2
+Stotis F
+7 0.5 0.2
+Stotis G
